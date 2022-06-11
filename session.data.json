@@ -1,1 +1,40 @@
-ganti pake session MD
+
+{
+
+    "self_mode": false,
+
+	"autobio": true,	"msg_connected": false,
+
+	"user_register": false,
+
+	"anti_delete" : false,
+
+	"anticall": false,
+
+	"auto_welcome_msg": true,
+
+	"auto_leave_msg": true,
+
+	"prefix": ".",
+
+	"language":"ind",
+
+	"ownerNumberr": "6289601027640",
+
+	"ownername": "ᴹᴿ᭄ Ridhofcོ ×፝֟͜×",
+
+	"botname":"RIMUMUBOTZ",
+
+	"thumb":"thumbnail_1.jpg",
+
+	"thumbnail":"thumbnail_2_1.jpg",
+
+	"fakethumb":"thumbnail_1.jpg", 
+
+	"donasi":"donasi.jpg",
+
+	"captionpay":"Scan untuk melakukan pembayaran",
+
+	"fake": " 「  DINOBOT  」\nCreated By ᴹᴿ᭄ RidhoOfcོ ×፝֟͜×"
+
+}
