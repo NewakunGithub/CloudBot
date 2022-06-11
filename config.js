@@ -4,20 +4,20 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.donasi = process.env.DONASI
+global.donasi = process.env.DONASI KAK
 global.thumbmenu = process.env.THUMB_MENU
-global.sig = process.env.LINK_IG
-global.sgh = process.env.LINK_GITHUB
-global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.NOWNER
+global.sig = process.env.https://instagram.com/stories/a.dhoo0/2858088137981643405?utm_source=ig_story_item_share&igshid=MDJmNzVkMjY=
+global.sgh = process.env.https://github.com/NewakunGithub
+global.sgc = process.env.https://chat.whatsapp.com/Ix3u2VFh8Qt9rytU1CB9ii
+global.ownernumber = process.env.+6289601027640
 global.owner = [
-  ['0'],
-  ['0'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
+  ['+6289516309543'],
+  ['+6289601027640'],
+  [`${process.env.+6289601027640}`, `${process.env.®Ridho™}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = [+6289601027640] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = Created By ®Ridho®
+global.author = DinoBotz 
 
 global.multiplier = 69 // The higher, The harder levelup
 
